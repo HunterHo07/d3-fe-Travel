@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <!-- Sky -->
+  <rect x="0" y="0" width="1920" height="700" fill="#87CEEB" />
+  
+  <!-- Ocean -->
+  <rect x="0" y="700" width="1920" height="380" fill="#0066cc" />
+  
+  <!-- Sun -->
+  <circle cx="1600" cy="200" r="100" fill="#FFD700" />
+  
+  <!-- Clouds -->
+  <ellipse cx="400" cy="200" rx="100" ry="50" fill="#FFFFFF" />
+  <ellipse cx="500" cy="180" rx="120" ry="60" fill="#FFFFFF" />
+  <ellipse cx="600" cy="200" rx="100" ry="50" fill="#FFFFFF" />
+  
+  <ellipse cx="1000" cy="300" rx="100" ry="50" fill="#FFFFFF" />
+  <ellipse cx="1100" cy="280" rx="120" ry="60" fill="#FFFFFF" />
+  <ellipse cx="1200" cy="300" rx="100" ry="50" fill="#FFFFFF" />
+  
+  <!-- Distant Islands -->
+  <path d="M100,700 Q300,600 500,700" fill="#228B22" />
+  <path d="M1400,700 Q1600,550 1800,700" fill="#228B22" />
+</svg>
