@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 
-// Get the GitHub repository name from environment or use default
-const repoName = process.env.GITHUB_REPOSITORY?.split('/')[1] || 'TravelCruiseAgencyWebsite';
+// Set the GitHub repository name correctly for GitHub Pages
+const repoName = process.env.GITHUB_REPOSITORY?.split('/')[1] || 'd3-fe-Travel';
 
 const nextConfig = {
   output: 'export',  // Enable static HTML export

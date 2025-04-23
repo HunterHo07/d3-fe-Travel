@@ -113,7 +113,7 @@ const HeroSection = () => {
           }}
         >
           <img
-            src="/images/ships/cruise-ship.png"
+            src="./images/ships/cruise-ship.png"
             alt="Cruise Ship"
             className="w-96 h-auto"
           />
