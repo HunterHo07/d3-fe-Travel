@@ -18,6 +18,7 @@ bun.lockb
 /out/
 /.swc/
 .next
+_next
 
 # Production
 /build
