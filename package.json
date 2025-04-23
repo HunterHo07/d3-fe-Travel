@@ -1,8 +1,8 @@
 {
-  "name": "jebsen-travel-tours",
-  "version": "1.0.0",
+  "name": "jebsen-travel-malaysia",
+  "version": "2.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/TravelCruiseAgencyWebsite",
+  "homepage": "https://jebsen.com.my",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -16,13 +16,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "JEBSEN TRAVEL & Tours | Luxury Cruise Specialists Since 1979",
-  description: "Experience the world's most luxurious cruise vacations with JEBSEN TRAVEL. Over 40 years of exceptional service and unforgettable journeys worldwide.",
-  keywords: "luxury cruises, cruise vacation, travel agency, JEBSEN TRAVEL, cruise specialists, world cruises",
+  title: "Welcome to JEBSEN TRAVEL & Tours",
+  description: "JEBSEN TRAVEL - The Cruise Specialists. With over 40 years of experience, we provide exceptional cruise vacations and travel services throughout Malaysia and worldwide.",
+  keywords: "cruise specialists, luxury cruises, travel agency, JEBSEN TRAVEL, Malaysia travel, cruise vacations",
   authors: [{ name: 'JEBSEN TRAVEL & Tours' }],
   creator: 'JEBSEN TRAVEL & Tours',
   publisher: 'JEBSEN TRAVEL & Tours',
-  metadataBase: new URL('https://jebsentravel.com'),
+  metadataBase: new URL('https://jebsen.com.my'),
 };
 
 export default function RootLayout({

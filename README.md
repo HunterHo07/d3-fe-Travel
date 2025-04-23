@@ -1,18 +1,18 @@
-# JEBSEN TRAVEL & Tours - Cruise Specialists Since 1979
+# Welcome to JEBSEN TRAVEL & Tours
 
 ![JEBSEN TRAVEL Logo](./public/logo.png)
 
-## About the Project
+## About JEBSEN TRAVEL
 
-The JEBSEN TRAVEL & Tours website showcases our luxury cruise vacation offerings and travel packages. With over 40 years of experience in the travel industry, we provide exceptional service and unforgettable journeys to destinations around the world.
+JEBSEN TRAVEL & Tours has been Malaysia's premier cruise specialist since our establishment. Our website showcases our exceptional cruise vacation offerings and travel packages available to our clients. With decades of experience in the travel industry, we provide Malaysian travelers with top-quality service and unforgettable journeys to destinations around the world.
 
-## Features
+## Our Services
 
-- Modern, responsive design optimized for all devices
-- Interactive cruise information and booking capabilities
-- Detailed information about special travel packages
-- Contact forms and customer service options
-- Team information and company history
+- Luxury cruise vacation packages tailored to Malaysian travelers
+- Exclusive travel offerings with world-class cruise lines
+- Special vacation packages to popular destinations
+- Personalized travel planning and customer service
+- Malaysia-based travel expertise with global connections
 
 ## Getting Started
 
